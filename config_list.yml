@@ -1,0 +1,121 @@
+experiment_name: cities_test_payload_3
+cities: test_city_list
+num_defenders: 4 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 3 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+
+experiment_name: cities_test_payload_5
+cities: test_city_list
+num_defenders: 4 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 5 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_payload_6
+cities: test_city_list
+num_defenders: 4 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 6 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_payload_7
+cities: test_city_list
+num_defenders: 4 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 7 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_5
+cities: test_city_list
+num_defenders: 5 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_6
+cities: test_city_list
+num_defenders: 6 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_7
+cities: test_city_list
+num_defenders: 7 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_8
+cities: test_city_list
+num_defenders: 8 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_9
+cities: test_city_list
+num_defenders: 9 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
+experiment_name: cities_test_defender_10
+cities: test_city_list
+num_defenders: 10 #NOTE: This is the max number of defenders
+adr_ratio: 1
+attacker_payload: 4 #NOTE: This is the max payload of the attacker.
+attacker_batteries: [6]
+num_samples: 100
+parallelize: True # True, False
+reward_scale_factor: 3 #1 = one-to-one, 2 = 2^X, 3 = 10^X
+perturb_rewards: 0 #this is the percentage of the reward that is perturbed
+
+##########################################
