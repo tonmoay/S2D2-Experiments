@@ -30,7 +30,7 @@ NOTE: You will need Gurobi installed in the machine with license activated.
 
 Download the `S2D2_data.zip` file from here: https://drive.proton.me/urls/7A3JN1D1TG#Ss8Pi2a8apbt
 
-Pleace `S2D2_data.zip` in the home directory and unzip. This will create the `data/` directory as explained earlier.
+Pleace `S2D2_data.zip` in the home directory and unzip. This will create the `data/` directory inside the home directory.
 
 ## Usage
 Here are the sequence of code execution required to run the codebase

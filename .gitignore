@@ -1,7 +1,6 @@
 __pycache__/
 cache/
 algorithms/__pycache__/
-results/*
 viz_data.ipynb
 data/*/*
 .vscode/
